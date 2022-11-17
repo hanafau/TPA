@@ -1,0 +1,13 @@
+.bungkus {
+  display: grid;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
